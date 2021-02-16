@@ -1,0 +1,5 @@
+port=5432
+database=single_family_loan
+user=postgres
+password=pasword
+host=localhost

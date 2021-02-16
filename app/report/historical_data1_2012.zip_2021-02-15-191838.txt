@@ -1,0 +1,10 @@
+Ingested file=./app/data/historical_data1_2012.zip
+File year=2012
+Origination count Q12012=381970
+Origination count Q22012=419581
+Origination count Q32012=521338
+Origination count Q42012=548881
+Performance count Q12012=26587951
+Performance count Q22012=29841665
+Performance count Q32012=38399495
+Performance count Q42012=40445304
