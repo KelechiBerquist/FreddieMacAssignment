@@ -12,15 +12,15 @@ source ./app/.venv/bin/activate
 ```
 Execute the bash script that runs the python application using
 ``` 
-bash app/execute.sh 
+bash ./app/execute.sh 
 ```
 ### Arguments to the python execution command 
 - The first argument is the path to the database connection variables file
 	- The default location is the parent directory of the application.
-	- A sample is included file is included.
+	- A sample file is included is included.
 - The second argument is the path to the data file to be ingested
 	- The default location is a folder named `data` in the parent directory of the application.
 
 
-Log files are written to `./logs/` <br/>
-Insertion and test report files are written to `./report/`
+Log files are written to `./app/logs/` <br/>
+Insertion and test report files are written to `./app/report/`
